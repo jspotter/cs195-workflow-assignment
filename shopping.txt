@@ -1,7 +1,11 @@
-peanut butter
-raisins
-oats
-cauliflower
-peas
-tofu
-bread
+|-----------------|
+|  Shopping List  |
+|-----------------|
+
+  * peanut butter
+  * raisins
+  * oats
+  * cauliflower
+  * peas
+  * tofu
+  * bread
