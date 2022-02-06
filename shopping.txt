@@ -1,0 +1,11 @@
+|-----------------|
+|  Shopping List  |
+|-----------------|
+
+  * peanut butter
+  * raisins
+  * oats
+  * cauliflower
+  * peas
+  * tofu
+  * bread
